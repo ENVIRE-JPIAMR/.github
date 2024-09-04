@@ -1,8 +1,8 @@
-# ENVIRE WP 3
-Research Consortium ENVIRE: Interventions to control the dynamics of antimicrobial resistance from chickens through the environment
+# ENVIRE-JPIAMR
+This directory contains different repositories for the WP 3 of the project.
 
 ## Directory setup
-This parent directory needs to be initialized with two elements: 
+This parent directory needs to be initialized with: 
 - `here` package preinstalled
 - an empty file with extension `.here`
 - a script `init.R` consisting
